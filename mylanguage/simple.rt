@@ -1,0 +1,9 @@
+DEF method_aa():
+    var_a:=1
+    var_b:=2
+    INT var_c=a+b
+    method_print(var_c)
+
+
+DEF method_main():
+    method_aa()
